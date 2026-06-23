@@ -1,0 +1,37 @@
+{
+  "theme": "비즈니스",
+  "sentences": [
+    {
+      "korean": "오늘 미팅 일정은 어떻게 되나요?",
+      "english": "What is the schedule for today's meeting?"
+    },
+    {
+      "korean": "이 제안서에 대해 어떻게 생각하십니까?",
+      "english": "What do you think about this proposal?"
+    },
+    {
+      "korean": "그 문제에 대해 다시 확인해 보겠습니다.",
+      "english": "I will double-check on that issue."
+    },
+    {
+      "korean": "이메일로 관련 자료를 보내드리겠습니다.",
+      "english": "I will send you the relevant materials by email."
+    },
+    {
+      "korean": "결정을 내리기 전에 더 논의가 필요합니다.",
+      "english": "We need further discussion before making a decision."
+    },
+    {
+      "korean": "마감 기한이 언제인가요?",
+      "english": "When is the deadline?"
+    },
+    {
+      "korean": "저희와 협력해 주셔서 감사합니다.",
+      "english": "Thank you for collaborating with us."
+    },
+    {
+      "korean": "다시 연락드리겠습니다.",
+      "english": "I will get back to you soon."
+    }
+  ]
+}

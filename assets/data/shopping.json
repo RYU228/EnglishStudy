@@ -1,0 +1,45 @@
+{
+  "theme": "쇼핑",
+  "sentences": [
+    {
+      "korean": "이것은 얼마인가요?",
+      "english": "How much is this?"
+    },
+    {
+      "korean": "그냥 둘러보고 있어요.",
+      "english": "I am just looking around."
+    },
+    {
+      "korean": "다른 색상도 있나요?",
+      "english": "Do you have this in other colors?"
+    },
+    {
+      "korean": "입어봐도 될까요?",
+      "english": "Can I try this on?"
+    },
+    {
+      "korean": "탈의실은 어디에 있나요?",
+      "english": "Where is the fitting room?"
+    },
+    {
+      "korean": "이것을 사고 싶습니다.",
+      "english": "I would like to buy this."
+    },
+    {
+      "korean": "신용카드로 계산할 수 있나요?",
+      "english": "Can I pay by credit card?"
+    },
+    {
+      "korean": "할인해 주실 수 있나요?",
+      "english": "Can you give me a discount?"
+    },
+    {
+      "korean": "영수증 좀 주시겠어요?",
+      "english": "Could I have a receipt, please?"
+    },
+    {
+      "korean": "이것을 환불하고 싶습니다.",
+      "english": "I would like to get a refund for this."
+    }
+  ]
+}

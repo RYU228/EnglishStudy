@@ -1,0 +1,37 @@
+{
+  "theme": "병원",
+  "sentences": [
+    {
+      "korean": "의사를 만나러 왔습니다. 예약이 되어 있습니다.",
+      "english": "I am here to see a doctor. I have an appointment."
+    },
+    {
+      "korean": "어디가 아프신가요?",
+      "english": "What seems to be the problem?"
+    },
+    {
+      "korean": "어제부터 열이 나고 머리가 아파요.",
+      "english": "I have had a fever and a headache since yesterday."
+    },
+    {
+      "korean": "진통제를 좀 주실 수 있나요?",
+      "english": "Can I get some painkillers, please?"
+    },
+    {
+      "korean": "이 약은 하루에 몇 번 먹나요?",
+      "english": "How many times a day should I take this medicine?"
+    },
+    {
+      "korean": "식후에 드셔야 합니다.",
+      "english": "You should take it after meals."
+    },
+    {
+      "korean": "얼마나 자주 복용하나요?",
+      "english": "How often should I take it?"
+    },
+    {
+      "korean": "빨리 회복되길 바랍니다.",
+      "english": "I hope you feel better soon."
+    }
+  ]
+}

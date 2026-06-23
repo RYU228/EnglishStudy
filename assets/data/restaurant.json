@@ -1,0 +1,45 @@
+{
+  "theme": "식당",
+  "sentences": [
+    {
+      "korean": "두 명 자리가 있나요?",
+      "english": "Do you have a table for two?"
+    },
+    {
+      "korean": "메뉴판 좀 보여주시겠습니까?",
+      "english": "Could we have the menu, please?"
+    },
+    {
+      "korean": "이 식당에서 가장 인기 있는 메뉴는 무엇인가요?",
+      "english": "What is the most popular dish here?"
+    },
+    {
+      "korean": "주문하겠습니다.",
+      "english": "We are ready to order."
+    },
+    {
+      "korean": "물 좀 주시겠어요?",
+      "english": "Can I have some water, please?"
+    },
+    {
+      "korean": "저는 채식주의자입니다.",
+      "english": "I am a vegetarian."
+    },
+    {
+      "korean": "음식이 정말 맛있네요.",
+      "english": "The food is delicious."
+    },
+    {
+      "korean": "남은 음식을 포장해 주시겠어요?",
+      "english": "Can I get a doggy bag for the leftovers?"
+    },
+    {
+      "korean": "계산서 좀 주시겠어요?",
+      "english": "Could I have the bill, please?"
+    },
+    {
+      "korean": "각자 계산할 수 있을까요?",
+      "english": "Can we split the bill?"
+    }
+  ]
+}

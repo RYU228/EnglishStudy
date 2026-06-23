@@ -1,0 +1,45 @@
+{
+  "theme": "일상 회화",
+  "sentences": [
+    {
+      "korean": "안녕하세요.",
+      "english": "Hello."
+    },
+    {
+      "korean": "오늘 기분이 어때요?",
+      "english": "How are you feeling today?"
+    },
+    {
+      "korean": "만나서 반가워요.",
+      "english": "Nice to meet you."
+    },
+    {
+      "korean": "이름이 무엇인가요?",
+      "english": "What is your name?"
+    },
+    {
+      "korean": "좋은 아침입니다.",
+      "english": "Good morning."
+    },
+    {
+      "korean": "오늘 날씨가 정말 좋네요.",
+      "english": "The weather is really nice today."
+    },
+    {
+      "korean": "도와주셔서 감사합니다.",
+      "english": "Thank you for your help."
+    },
+    {
+      "korean": "천만에요.",
+      "english": "You are welcome."
+    },
+    {
+      "korean": "죄송하지만 잘 이해하지 못했어요.",
+      "english": "I am sorry, but I did not understand."
+    },
+    {
+      "korean": "나중에 봐요.",
+      "english": "See you later."
+    }
+  ]
+}
