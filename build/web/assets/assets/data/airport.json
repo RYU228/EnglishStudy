@@ -1,0 +1,37 @@
+{
+  "theme": "공항",
+  "sentences": [
+    {
+      "korean": "체크인 카운터는 어디인가요?",
+      "english": "Where is the check-in counter?"
+    },
+    {
+      "korean": "창가 좌석으로 예약할 수 있을까요?",
+      "english": "Could I get a window seat, please?"
+    },
+    {
+      "korean": "부칠 짐이 두 개 있습니다.",
+      "english": "I have two bags to check."
+    },
+    {
+      "korean": "기내 휴대용 가방은 몇 개까지 허용되나요?",
+      "english": "How many carry-on bags are allowed?"
+    },
+    {
+      "korean": "탑승구는 어디인가요?",
+      "english": "Where is the boarding gate?"
+    },
+    {
+      "korean": "비행기가 연착되었나요?",
+      "english": "Has the flight been delayed?"
+    },
+    {
+      "korean": "수하물 찾는 곳은 어디인가요?",
+      "english": "Where is the baggage claim area?"
+    },
+    {
+      "korean": "세관에 신고할 물건이 없습니다.",
+      "english": "I have nothing to declare."
+    }
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "theme": "여행",
+  "sentences": [
+    {
+      "korean": "여권 좀 보여주시겠습니까?",
+      "english": "May I see your passport, please?"
+    },
+    {
+      "korean": "이 주소로 어떻게 가나요?",
+      "english": "How do I get to this address?"
+    },
+    {
+      "korean": "가장 가까운 버스 정류장은 어디인가요?",
+      "english": "Where is the nearest bus stop?"
+    },
+    {
+      "korean": "길을 잃었어요. 도와주실 수 있나요?",
+      "english": "I am lost. Can you help me?"
+    },
+    {
+      "korean": "지도에서 이곳을 보여주실 수 있나요?",
+      "english": "Can you show me this place on the map?"
+    },
+    {
+      "korean": "기차표는 어디서 사나요?",
+      "english": "Where can I buy a train ticket?"
+    },
+    {
+      "korean": "여기서 시내까지 얼마나 걸리나요?",
+      "english": "How long does it take to get to downtown from here?"
+    },
+    {
+      "korean": "사진 좀 찍어주시겠어요?",
+      "english": "Could you take a picture of me, please?"
+    },
+    {
+      "korean": "즐거운 여행 되세요!",
+      "english": "Have a nice trip!"
+    }
+  ]
+}

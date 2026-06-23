@@ -1,0 +1,37 @@
+{
+  "theme": "호텔",
+  "sentences": [
+    {
+      "korean": "체크인하고 싶습니다. 제 이름으로 예약되어 있습니다.",
+      "english": "I would like to check in. I have a reservation under my name."
+    },
+    {
+      "korean": "체크아웃 시간은 몇 시인가요?",
+      "english": "What time is check-out?"
+    },
+    {
+      "korean": "아침 식사가 요금에 포함되어 있나요?",
+      "english": "Is breakfast included in the room rate?"
+    },
+    {
+      "korean": "와이파이 비밀번호는 무엇인가요?",
+      "english": "What is the Wi-Fi password?"
+    },
+    {
+      "korean": "방을 청소해 주실 수 있나요?",
+      "english": "Could you clean my room, please?"
+    },
+    {
+      "korean": "수건을 더 가져다주실 수 있나요?",
+      "english": "Could I get some extra towels, please?"
+    },
+    {
+      "korean": "짐을 보관해 주실 수 있나요?",
+      "english": "Could you store my luggage for a while?"
+    },
+    {
+      "korean": "모닝콜을 신청할 수 있나요?",
+      "english": "Can I request a wake-up call, please?"
+    }
+  ]
+}
